@@ -1,7 +1,11 @@
 # CBF Support Chatbot
 
 A support chatbot for Coding Black Females, built live in a workshop
-during CBF Global Tech Conference Fest 2026. The session went from an empty file to a
+during CBF Global Tech Conference Fest 2026. 
+
+Live app - https://codingblack-females-chatbot-support-hywo4jhqdvzyjdm8bbtgeq.streamlit.app/
+
+The session went from an empty file to a
 deployed URL.
 
 This repository holds the finished code, the reasoning behind each
@@ -148,9 +152,9 @@ handle it, which is what the retry loop exists for.
 
 ---
 
-## Built in one hour
+## Built in one hour and thirty minutes
 
-This was a live build delivered in a single hour. That sets the scope.
+This was a live build delivered in one hour and thirty minutes. That sets the scope.
 What follows is what the hour did not allow, rather than what was
 overlooked.
 
